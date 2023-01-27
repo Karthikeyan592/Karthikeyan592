@@ -1,6 +1,6 @@
 # About Me:
 <p align="center">
-  <img alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+  <img alt="Coder GIF" height=400 width=500 src="[https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif](https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif)" />
 </p>
 
 Hi I am Karthikeyan , pursuing 3rd year Master in Software Systems<br>in PSG College of Technology.I am a full stack Web developer familiar with <br>MERN stack.<br>Currently seeking for a 6 month full time internship in any development role.
