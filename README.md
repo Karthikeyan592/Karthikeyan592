@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi I am Karthikeyan , pursuing 3rd year Master in Software Systems<br>in PSG College of Technology.I am a full stack Web developer familiar with <br>MERN stack.<br>Currently seeking for a 6 month full time internship in any development role.
 
 
